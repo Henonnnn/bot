@@ -2,6 +2,6 @@ module.exports = {
 	name: 'ready',
 	once: true,
 	async execute(client) {
-		console.log(`Ready! Loggadinedjeanaimareuh in as ${client.user.tag}`);
+		console.log(`Ready! Loggadinedjezanaimareuh in as ${client.user.tag}`);
 	},
 };
